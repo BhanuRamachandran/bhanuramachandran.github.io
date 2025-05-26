@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jprofile.jpg" # filename of the avatar image placed in /images/, e.g. "jprofile.jpg"
+  avatar           : "jprofile_new.jpg" # filename of the avatar image placed in /images/, e.g. "jprofile.jpg"
   name             : "Bhanu Ramachandran"
   pronouns         : # example: "she/her"  
   bio              : "Incoming PGY1 at SUNY Downstate Health Sciences University | Internal Medicine | Bharatanatyam dancer"
