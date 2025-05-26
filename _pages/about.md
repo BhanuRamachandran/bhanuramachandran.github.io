@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PGY1 Internal Medicine resident at SUNY Downstate Health Sciences University. 
+I am an incoming PGY1 Internal Medicine Resident at SUNY Downstate Health Sciences University. 
