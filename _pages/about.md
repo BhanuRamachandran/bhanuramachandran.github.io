@@ -73,7 +73,7 @@ Internal Medicine Resident at SUNY Downstate Health Sciences University
       <div class="timeline-year">2025</div>
       <div class="timeline-content">
         <h4>JHLT Journal Watch Reviewer</h4>
-        <p>Academic peer review responsibilities</p>
+        <p>Reviewer for August 2025 Cardiology Issue of Journal Watch-ISHLT</p>
       </div>
     </div>
     
