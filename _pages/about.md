@@ -56,16 +56,16 @@ Internal Medicine Resident at SUNY Downstate Health Sciences University
     <div class="timeline-item">
       <div class="timeline-year">2025</div>
       <div class="timeline-content">
-        <h4>Residency at SUNY Downstate</h4>
-        <p>Started Internal Medicine residency program</p>
+        <h4>State University of New York at Brooklyn/Downstate</h4>
+        <p>Internal Medicine Residency Program</p>
       </div>
     </div>
     
     <div class="timeline-item">
       <div class="timeline-year">2025</div>
       <div class="timeline-content">
-        <h4>ISHLT Boston Presentation</h4>
-        <p>Abstract posters on LVAD Outcomes and Infections</p>
+        <h4>Attended the ISHLT's Annual Meeting'25 in Boston</h4>
+        <p>Presented 2 Abstract posters on LVAD Outcomes</p>
       </div>
     </div>
     
@@ -81,7 +81,7 @@ Internal Medicine Resident at SUNY Downstate Health Sciences University
       <div class="timeline-year">2024</div>
       <div class="timeline-content">
         <h4>Cannonball Marathon</h4>
-        <p>Marathon finisher in October 2024</p>
+        <p>Marathon finisher- October 2024</p>
       </div>
     </div>
     
@@ -89,7 +89,7 @@ Internal Medicine Resident at SUNY Downstate Health Sciences University
       <div class="timeline-year">2023-2025</div>
       <div class="timeline-content">
         <h4>UNC Research Scholar</h4>
-        <p>Cardiovascular research and LVAD outcomes</p>
+        <p>Research focused on Mechanical Circulatory Support/LVAD outcomes</p>
       </div>
     </div>
     
@@ -97,7 +97,7 @@ Internal Medicine Resident at SUNY Downstate Health Sciences University
       <div class="timeline-year">2022</div>
       <div class="timeline-content">
         <h4>Mysuru Half Marathon</h4>
-        <p>I finished my first half marathon</p>
+        <p>Finisher-2022</p>
       </div>
     </div>
     
@@ -105,15 +105,15 @@ Internal Medicine Resident at SUNY Downstate Health Sciences University
       <div class="timeline-year">2021-2023</div>
       <div class="timeline-content">
         <h4>Project Step One</h4>
-        <p>Medical education preparation</p>
+        <p>NGO focused on improving healthcare accessibility during the pandemic</p>
       </div>
     </div>
     
     <div class="timeline-item">
       <div class="timeline-year">2021</div>
       <div class="timeline-content">
-        <h4>MBBS Graduation</h4>
-        <p>Completed medical degree from MIMS</p>
+        <h4>Graduated Medical School</h4>
+        <p></p>
       </div>
     </div>
     
@@ -128,16 +128,16 @@ Internal Medicine Resident at SUNY Downstate Health Sciences University
     <div class="timeline-item">
       <div class="timeline-year">2015-2021</div>
       <div class="timeline-content">
-        <h4>MIMS MBBS</h4>
-        <p>Medical school education</p>
+        <h4>Mandya Institute of Medical Sciences</h4>
+        <p>Medical school- MBBS</p>
       </div>
     </div>
     
     <div class="timeline-item">
       <div class="timeline-year">2015-2017</div>
       <div class="timeline-content">
-        <h4>U&I NGO Volunteer</h4>
-        <p>Community service teaching kids</p>
+        <h4>U&I Volunteer</h4>
+        <p>NGO focused on improving education for kids in orphanages all over South India</p>
       </div>
     </div>
     
@@ -145,7 +145,7 @@ Internal Medicine Resident at SUNY Downstate Health Sciences University
       <div class="timeline-year">2014</div>
       <div class="timeline-content">
         <h4>Bharatnatyam Junior Boards</h4>
-        <p>I obtained my Classical Dance Certification.</p>
+        <p>Initial Classical Dance Certification.</p>
       </div>
     </div>
   </div>
