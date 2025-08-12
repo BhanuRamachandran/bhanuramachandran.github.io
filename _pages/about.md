@@ -49,7 +49,7 @@ Internal Medicine Resident at SUNY Downstate Health Sciences University
 
 
 
-## News and Events
+## Timeline
 
 <div class="timeline-container">
   <div class="timeline-scroll">
