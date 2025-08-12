@@ -60,20 +60,20 @@ Internal Medicine Resident at SUNY Downstate Health Sciences University
         <p>Internal Medicine Residency Program</p>
       </div>
     </div>
-    
+
     <div class="timeline-item">
       <div class="timeline-year">2025</div>
       <div class="timeline-content">
-        <h4>Attended the ISHLT's Annual Meeting'25 in Boston</h4>
-        <p>Presented 2 Abstract posters on LVAD Outcomes</p>
+        <h4>JHLT Journal Watch Reviewer</h4>
+        <p>Reviewer for August 2025 Cardiology Issue of Journal Watch-ISHLT</p>
       </div>
     </div>
     
     <div class="timeline-item">
       <div class="timeline-year">2025</div>
       <div class="timeline-content">
-        <h4>JHLT Journal Watch Reviewer</h4>
-        <p>Reviewer for August 2025 Cardiology Issue of Journal Watch-ISHLT</p>
+        <h4>Attended the ISHLT's Annual Meeting'25 in Boston</h4>
+        <p>Presented 2 Abstract posters on LVAD Outcomes</p>
       </div>
     </div>
     
